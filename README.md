@@ -10,14 +10,8 @@ Basically I extracted data from a csv file then transformed and saved it in a va
 Files:
 
  main.py : contains all code for extracting and transforming
-
  JSONStringConverter.py : contains functions to extract data from JSON strings
-
  HelperFunctions.py : some self-made functions to help keep a cleaner code
-
  MyEncoders.py : contains functions that do the transformations on data
-
- 
  data_200.csv : original data containing only 200 data points
-
  data_cleaned.csv : the former csv filed cleaned from unneccessary columns
